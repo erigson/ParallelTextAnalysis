@@ -1,4 +1,4 @@
-### WordAnalysisTool
+# WordAnalysisTool
 
  The `WordAnalysisTool` is a Java application that performs a concurrent analysis on a list of words read from a text file. 
  It calculates the average word length, finds the longest word, and identifies the most frequently occurring letter.
